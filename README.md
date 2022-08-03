@@ -1,4 +1,4 @@
-![Prognostics - 1D-DGAN-PHM](https://github.com/marcialbaptista/1D-DGAN-PHM/blob/master/icon.png?raw=true)
+![Prognostics - 1D-DGAN-PHM](https://github.com/marcialbaptista/1D-DGAN-PHM/blob/main/icon.png?raw=true)
 
 ## 1D-DGAN-PHM
 
